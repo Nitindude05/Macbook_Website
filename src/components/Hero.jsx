@@ -18,7 +18,7 @@ const Hero = () => {
 
             <button>Buy</button>
 
-            <p>From $1599 or $133/mo for 12 months</p>
+            <p>From Rs 119990 or Rs 9999/mo for 12 months</p>
         </section>
     )
 }
